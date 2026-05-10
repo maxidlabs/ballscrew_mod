@@ -1,24 +1,25 @@
 # What is this?
-Ballscrew mod for Voron Trident., in case somebody wants to replace Trident's standard lead screws.
-Parts were modelled to look similar to the stock [Trident](https://github.com/VoronDesign/Voron-Trident) parts.
-All critical spacings should match the stock ones, so that e.g. the parts fit the frame.
-I made carriages a bit beefier because ballscrew nuts are bigger than leadscrew ones. I made motor mounts bigger to match.
+A ballscrew mod for the Voron Trident, for those who want to replace the standard lead screws. 
+
+The parts were modeled to look similar to the stock [Trident](https://github.com) components. All critical spacings match the stock dimensions to ensure they fit the frame perfectly. I made the carriages a bit beefier to accommodate the larger ballscrew nuts and scaled up the motor mounts to match.
+
+The rear carriage does not have chain holder holes yet, but they are easy to add.
 
 # Compatible ball screws
-I used the standard 1204 ball screws + nuts, which I relatively cheaply bought from AliExpress.
+I used standard 1204 ball screws and nuts, which are readily available and relatively cheap on AliExpress.
 
-# What it looks like when installed?
+# What does it look like installed?
 
 <img src="photo/DSC_5093.JPG" width="300" alt="Picture 1">
 <img src="photo/DSC_5094.JPG" width="300" alt="Picture 2">
 
 ## License & Attribution
 
-This ball-screw mod is released under the **[CERN-OHL-P v2](https://ohwr.org "CERN Open Hardware License v2 Permissive")** license. 
+This ballscrew mod is released under the **[CERN-OHL-P v2](https://ohwr.org "CERN Open Hardware License v2 Permissive")** license. 
 
 ### How to Attribute
 If you use this design as a base for your own mod, please include the following attribution in your documentation or README:
 
-> "This work is based on the [Ball-Screw Mod](https://github.com/maxidlabs/ballscrew_mod) by **maxidlabs**."
+> "This work is based on the [Ball-Screw Mod](https://github.com) by **maxidlabs**."
 
 You are free to modify, distribute, and sell kits based on this design, provided you maintain this attribution and include the original license file.
