@@ -1,5 +1,10 @@
-# ballscrew_mod
-Ballscrew mod for Voron Trident
+# What is this?
+Ballscrew mod for Voron Trident., in case somebody wants to replace Trident's standard lead screws.
+
+For me the biggest issue with the stock screws was the fact that I needed to buy "special" steppers, whilst I preferred a more modular design.
+
+I used the standard 1204 ball screws + nuts, which I relatively cheaply bought from AliExpress.
+
 
 ## License & Attribution
 
