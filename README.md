@@ -5,6 +5,10 @@ For me the biggest issue with the stock screws was the fact that I needed to buy
 
 I used the standard 1204 ball screws + nuts, which I relatively cheaply bought from AliExpress.
 
+# What it looks like?
+
+<img src="photo/DSC_5093.JPG" width="300" alt="Picture 1">
+<img src="photo/DSC_5094.JPG" width="300" alt="Picture 2">
 
 ## License & Attribution
 
