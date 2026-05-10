@@ -1,11 +1,13 @@
 # What is this?
 Ballscrew mod for Voron Trident., in case somebody wants to replace Trident's standard lead screws.
+Parts were modelled to look similar to the stock [Trident](https://github.com/VoronDesign/Voron-Trident) parts.
+All critical spacings should match the stock ones, so that e.g. the parts fit the frame.
+I made carriages a bit beefier because ballscrew nuts are bigger than leadscrew ones. I made motor mounts bigger to match.
 
-For me the biggest issue with the stock screws was the fact that I needed to buy "special" steppers, whilst I preferred a more modular design.
-
+# Compatible ball screws
 I used the standard 1204 ball screws + nuts, which I relatively cheaply bought from AliExpress.
 
-# What it looks like?
+# What it looks like when installed?
 
 <img src="photo/DSC_5093.JPG" width="300" alt="Picture 1">
 <img src="photo/DSC_5094.JPG" width="300" alt="Picture 2">
